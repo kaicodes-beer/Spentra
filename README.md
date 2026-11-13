@@ -21,4 +21,4 @@ No bank connection yet. Payments are entered manually.
 Google sign-in and password reset need a backend and are not active.
 Tech
 
-HTML, CSS and vanilla JavaScript in a single file.
+HTML, JavaScript and MySQL.
